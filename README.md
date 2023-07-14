@@ -1,10 +1,7 @@
 # STRIPE-REVERSE-CHECKOUT-SESSION
 
+🔓 You have the ability to decrypt the checkout URLs and restore them to their original form. (ENCRYPT + DECRYPT) and Stripe Checkout Session to grab Payment information (Decrypted and kind of reverse engineered version)
 
-Stripe Checkout Session to grab Payment information (Decrypted and kind of reverse engineered version)
-
-
-🔓 You have the ability to decrypt the checkout URLs and restore them to their original form. (ENCRYPT + DECRYPT)
 
 ## 🧾 The NutShell
 
