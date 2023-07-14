@@ -1,12 +1,14 @@
 # STRIPE-REVERSE-CHECKOUT-SESSION
 
-Stripe Checkout Session to grab Payment information (Decrypted + Kinda Reverse Engineered Version )
+
+Stripe Checkout Session to grab Payment information (Decrypted and kind of reverse engineered version)
+
 
 🔓 You have the ability to decrypt the checkout URLs and restore them to their original form.
 
 ## 🧾 The NutShell
 
-Stripe Checkout Session they use [XOR](https://en.wikipedia.org/wiki/XOR_cipher) algorithm to obfuscate PK KEY (CLIENT SIDE KEY) in (CHECKOUT URL) also they encode it and if you want to automate something via just using url you cant directly do that i know this automatic decrypt in browser you can just grab via using selenium or any other automation library but its slow :/  so thats why i spend my time to find out this so i just try to brute force the correct digit (0 to 1000) bcs you want to find key else you cant do anything for that we want to use [BITWISE OPERATOR ](https://en.wikipedia.org/wiki/XOR_cipher) so my code was very simple and i found the correct digit its was number 5 hak yeah its was very easy key you just want to have some understand and everything Crackable btw i use python to do this.
+Stripe Checkout Session: They use the [XOR] (https://en.wikipedia.org/wiki/XOR_cipher) algorithm to obfuscate the client-side key (PK_KEY) in the Checkout URL. They also encode it, and if you want to automate something via just the URL, you can't directly do that. I know this automatically decrypts in the browser, but you can just grab it via Selenium or any other automation library, but it's slow. So that's why I spent my time trying to find out this, so I just tried to brute force the correct digit (0 to 1000) because you want to find the key; otherwise, you can't do anything about that. We want to use the [BITWISE operator] (https://en.wikipedia.org/wiki/XOR_cipher), so my code was very simple, and I found the correct digit, which was number 5. Haha, yeah, it was a very easy key. You just want to understand this, and everything is crackable.
 
 ## 🔑 GAME CHANGER 
 
