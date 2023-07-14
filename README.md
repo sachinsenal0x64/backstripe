@@ -11,7 +11,7 @@ Stripe Checkout Session: They use the [XOR](https://en.wikipedia.org/wiki/XOR_ci
 
 ACTUAL DECRYPTING PART (AFTER THE DECODE)
 
-```
+```Python
 
 print("Decoded PK value:", decoded_pk)
 
