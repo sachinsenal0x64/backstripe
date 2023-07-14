@@ -1,6 +1,6 @@
 <div align="center">
    <a href="https://stripe.com">
-  <img src="/assets/stripe.svg" width="90" height="90" alt="stripe">
+  <img src="/assets/stripe.svg" width="250" height="125" alt="stripe">
 </a>
 
 
