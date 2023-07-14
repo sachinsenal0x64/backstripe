@@ -12,10 +12,15 @@ Stripe Checkout Session: They use the [XOR](https://en.wikipedia.org/wiki/XOR_ci
 ACTUAL DECRYPTING PART (AFTER THE DECODE)
 
 ```Python
+# DECODE
 
 print("Decoded PK value:", decoded_pk)
 
+# ASSIGN
+
 dry = ""
+
+# DECRYPT WITH VALUE 5
 
 for c in decoded_pk:
     dry += chr(5 ^ c)
