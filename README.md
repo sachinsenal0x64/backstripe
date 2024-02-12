@@ -20,7 +20,7 @@ width="1800"  height="3">
 
 ## 🧾 The NutShell
 
-On May 5, 2023, Stripe.com added security measures by using an XOR algorithm to encrypt the client-side key (pk-key) and base64 for the checkout URL. This encryption makes automating tasks with the checkout URL challenging. While automation libraries like Selenium can extract the pk-key, it's slow and not how stripe.com handles the backend. To overcome this, I spent time reverse engineering Stripe API & finding the correct decryption key, using a simple brute force method testing numbers 0 to 1000. The correct key turned out to be 5, allowing for a straightforward Python code to decrypt and build a checkout session in reverse.
+On May 5, 2023, Stripe.com added security measures by using an XOR algorithm to encrypt the client-side key (pk-key) and base64 for the checkout URL. This encryption makes automating tasks with the checkout URL challenging. While automation libraries like Selenium can extract the pk-key, it's slow and not how stripe.com handles the backend. To overcome this, I spent time reverse engineering Stripe API & finding the correct decryption key, using a simple brute force method testing numbers 0 to 1000. The correct key turned out to be 5, allowing for a straightforward Python code to decrypt and build a checkout session in a reverse way.
 
 <br>
 
