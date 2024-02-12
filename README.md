@@ -26,7 +26,7 @@ On May 5, 2023, Stripe.com added security measures by using an XOR algorithm to 
 
 ## 🔑 GAME CHANGER 
 
-ACTUAL DECRYPTING PART (AFTER THE DECODE)
+ACTUAL SIMPLE DECRYPTING PART (AFTER THE DECODE)
 
 ```Python
 # DECODE
