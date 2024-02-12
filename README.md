@@ -13,7 +13,7 @@ width="1800"  height="3">
 
 > Made for purely educational purposes.
 
-🔓 You have ability to decrypt the checkout URLs and restore them to their original form. (ENCRYPT + DECRYPT) and Stripe Checkout Session to grab Payment information (Decrypted and kind of reverse engineered version)
+🔓 You have ability to decrypt the checkout URLs and restore them to their original form. (ENCRYPT + DECRYPT) and Stripe Checkout Session to grab Payment information.
 </div>
 
 <br>
