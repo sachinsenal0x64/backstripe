@@ -22,6 +22,7 @@ width="1800"  height="3">
 ## 🧾 Use Cases
 
 - 🦾 Automation
+- 🤖 Flexible
 
 
 ## 🧾 The NutShell
