@@ -24,6 +24,7 @@ width="1800"  height="3">
 - 🦾 Automation
 - 🤖 Flexible
 
+<br>
 
 ## 🧾 The NutShell
 
