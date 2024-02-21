@@ -19,6 +19,7 @@
 
 - 🦾 Automation
 - 🤖 Flexible
+- 🏞️ Use out of the scope
 
 <br>
 
