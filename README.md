@@ -30,6 +30,8 @@ On May 5, 2023, Stripe.com added security measures by using an XOR algorithm to 
 
 ACTUAL SIMPLE DECRYPTING PART (AFTER THE DECODE)
 
+Please refer to [stripe.py](https://github.com/sachinsenal0x64/stripe-reverse-checkout-session/blob/main/stripe.py).
+
 ```Python
 # DECODE
 
@@ -49,3 +51,5 @@ print("Decoded ck value:", ck)
 print("Decrypted PK value:", dry)
 
 ```
+
+
