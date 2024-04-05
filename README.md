@@ -15,7 +15,7 @@
 ## 🧾 Use Cases
 
 - 🦾 Automation
-- 🤖 Flexible
+- 🤸🏻 Flexible
 - 🏞️ Use out of the scope (EX: BOTS)
 
 <br>
